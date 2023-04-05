@@ -9,6 +9,8 @@ class Variaveis {
         //Verdadeiro ou Falso
         boolean trueOrfalse= true;
 
-        System.out.println(y + x);
+        System.out.println(nome);
+        System.out.println(x + y);
+        System.out.println(trueOrfalse);
     }
 }
