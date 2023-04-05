@@ -1,30 +1,12 @@
 class Switchs {
     public static void main(String[ ] args) {
 
-        switch(6) {
-            case 10:
-                    System.out.println("Mvp!");
-                break;
-            case 9:
-            case 8:
-            case 7:
-                    System.out.println("Aprovado!");
-                break;  
-            case 6:
-            case 5:
-                    System.out.println("Recuperação!");
-                break;
-            case 4:
-            case 3:
-            case 2:
-            case 1:
-            case 0:
-                    System.out.println("Reprovado!");
-                break;
-
-            default:
-                    System.out.println("Aluno não cadastrado!");
-                    
+        switch (10) {
+            case 10 -> System.out.println("Mvp!");
+            case 9, 8, 7 -> System.out.println("Aprovado!");
+            case 6, 5 -> System.out.println("Recuperação!");
+            case 4, 3, 2, 1, 0 -> System.out.println("Reprovado!");
+            default -> System.out.println("Aluno não cadastrado!");
         }
-    }    
+    }
 }
