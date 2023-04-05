@@ -1,4 +1,4 @@
-class Playground {
+class Variaveis {
     public static void main(String[ ] args) {
         //String
         String nome = "heelo";

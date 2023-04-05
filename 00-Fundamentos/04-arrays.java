@@ -1,4 +1,4 @@
-class Playground {
+class Arrays {
     public static void main(String[ ] args) {
         String[] nomes = {"Ian", "Lucas", "Pedro", "Matheus", "Andrei"};
         double[] notas = {9.8, 7.5, 6.8, 7.2, 7.0};

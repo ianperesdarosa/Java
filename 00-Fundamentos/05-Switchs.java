@@ -1,7 +1,7 @@
-class Playground {
+class Switchs {
     public static void main(String[ ] args) {
 
-        switch(10) {
+        switch(6) {
             case 10:
                     System.out.println("Mvp!");
                 break;
@@ -12,7 +12,7 @@ class Playground {
                 break;  
             case 6:
             case 5:
-                    System.out.println("Recuperacao!");
+                    System.out.println("Recuperação!");
                 break;
             case 4:
             case 3:

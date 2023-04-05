@@ -1,4 +1,4 @@
-class Playground {
+class Loop {
     public static void main(String[ ] args) {
 
     //Loop For    

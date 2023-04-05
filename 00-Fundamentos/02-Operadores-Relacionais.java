@@ -1,4 +1,4 @@
-class Playground {
+class OperadoresRelacioanis {
     public static void main(String[ ] args) {
     //Relacionais
 

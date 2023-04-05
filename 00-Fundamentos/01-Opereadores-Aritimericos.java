@@ -1,4 +1,4 @@
-class Playground {
+class OperadoresAritimeticos {
     public static void main(String[ ] args) {
         //Soma(+)
         //Subtração(-)

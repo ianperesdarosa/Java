@@ -1,4 +1,4 @@
-class Playground {
+class Estruturas {
     public static void main(String[ ] args) {
         double nota = 6.0;
 
