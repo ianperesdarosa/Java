@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00798095-217d-4c75-a2c4-467d135339a0" name="Changes" comment="" />
+    <list default="true" id="00798095-217d-4c75-a2c4-467d135339a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01-Test/Main/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Test/Main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-Test/Main/src/App.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +17,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2Nuk4KDLTUZXMCmax6dDSpPuEFo" />
   <component name="ProjectViewState">
@@ -23,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
